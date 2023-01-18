@@ -4,6 +4,7 @@
 # third party packages
 dvc
 dvc[gdrive]
+dvc_ssh
 sklearn
 pandas
 pytest
